@@ -1,6 +1,6 @@
-# ChurnPrediction
+## 📊 Customer Churn Prediction
 
-# Machine Learning Project
+This project predicts whether a customer will churn based on their input information. It demonstrates the full ML workflow including preprocessing, model training, and deployment.
 
 ## 📌 Overview
 This project implements an end-to-end **machine learning workflow**, including data cleaning, exploratory data analysis (EDA), model training, evaluation, and deployment.
@@ -96,5 +96,14 @@ Ensure trained model files exist in the models/ directory before running the app
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
-- Joblib
+- Joblib  
+
+ 
+## 🚀 Deployment
+
+The Customer Churn Prediction model is deployed as an interactive web app using **Streamlit**. 
+
+- 📝 Input customer details to predict churn in real-time
+
+-⚡ Preprocessing pipelines handle both numerical (Imputer + Scaler) and categorical (Imputer + One-Hot Encoding) features
 
