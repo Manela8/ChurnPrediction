@@ -10,7 +10,7 @@ Multiple machine learning models are trained and compared, with the best-perform
 ---
 
 ## 📂 Project Structure
-
+```
 project/
 ├── data/
 │ ├── raw_dataset.csv
@@ -39,7 +39,7 @@ project/
 ├── requirements.txt
 └── README.md
 
-
+```
 ---
 
 ## 🧪 Notebooks
